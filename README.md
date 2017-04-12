@@ -1,0 +1,2 @@
+# my-future
+mining bitcoin
